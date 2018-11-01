@@ -3,5 +3,18 @@ layout: page
 title: Portfolio
 permalink: /portfolio/
 ---
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
-### This page contains link to my projects.
+Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
+
+## Contents
+- ### Machine Learning
+  - [Employee Absenteeism](https://github.com/hasanali28/Employee-Absenteeism): Analyze the reason for absenteeism. Multivariate TIme Series Problem to predict the number absenteeism next year
+  - [Telecom Churn Analysis](https://github.com/hasanali28/Telecom-Churn-Analysis): Analyze the reason for Churning out of customers. Classify the users on the basis of various matrices.
+  - [Bike Rental Prediction](https://github.com/hasanali28/Bike-Rental-Prediction): Predict the number of bikes to be rented in the coming year to prepare the company for demand using various regression ML algorithms.
+  - [Credit Card Segmentation](https://github.com/hasanali28/Credit-Card-Segmentation): Clustering of users on the basis of different variables using KMeans Unsupervised Learning.
+  - [Marketing Campaign](https://github.com/hasanali28/Marketing-Campaign): : Extensive Data cleaning and wrangling. Classification of users whether they'll revert to a particular campaign.
+  - [Walmart Sales Forecast](https://github.com/hasanali28/Walmart-Sales-Forecast): Extensive Data cleaning and wrangling. Classification of users whether they'll revert to a particular campaign.
+  - [Text Mining Sentiment Analysis](https://github.com/hasanali28/Text-Mining-Sentiment-Analysis): Using wordCloud to determine the frequency of words and
+then performing sentiment analysis.
+
